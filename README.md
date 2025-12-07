@@ -5,7 +5,7 @@ This project is a simple NLP pipeline that classifies movie reviews as positive 
 # Project Structure
 
 - `sentiment_analysis.ipynb` – Main Jupyter Notebook with all code and explanations.
-- `data/` (optional) – Folder for dataset files if you use a larger CSV dataset.
+- `data/` – Folder for dataset files if you use a larger CSV dataset.
 - `README.md` – Project documentation.
 
 # Technologies Used
@@ -16,4 +16,4 @@ This project is a simple NLP pipeline that classifies movie reviews as positive 
 - scikit-learn (TF-IDF, train-test split, Logistic Regression)
 - NLTK (stopwords, lemmatization, tokenization)
 - matplotlib / seaborn
-- wordcloud (for visualization)
+- wordcloud 
